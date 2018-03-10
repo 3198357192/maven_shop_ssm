@@ -69,7 +69,7 @@
     <mvc:resources mapping="/styles/**" location="/css/"/>
     <mvc:resources mapping="/staticPages/**" location="/page/"/>
     
-    <!--拦截器-->
+
 
     
 </beans>
